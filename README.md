@@ -1,7 +1,7 @@
 # Discogram (Project under development.)
 An automated Discord bot sharing Instagram posts.
 
-# Respect for my labout.
+# Respect for my labour.
 
 # 🏃‍♀️ Running
 
