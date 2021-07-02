@@ -13,3 +13,7 @@ An automated Discord bot sharing Instagram posts.
 -   Run `yarn start` or `npm run start`
 ****
 
+# Screenshots
+
+![Screenshot](https://image.prntscr.com/image/-JGy9W-ZQ6qui5ykrdwrLA.png)
+![Screenshot](https://image.prntscr.com/image/9iFIisWoRT6y81TvINlVSA.png)
