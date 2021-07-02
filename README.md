@@ -1,5 +1,6 @@
 # Discogram (Project under development.)
 An automated Discord bot sharing Instagram posts.
+
 Example Discord server: https://discord.gg/6Q86qQ6VW9
 
 # Respect for my labor.
