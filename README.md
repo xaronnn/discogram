@@ -1,9 +1,9 @@
 # Discogram (Project under development.)
 An automated Discord bot sharing Instagram posts.
 
-# Respect for my labour.
+# Respect for my labor.
 
-# 🏃‍♀️ Running
+# Build & Run
 
 -   Clone repo
 -   Rename `config.dev.ts` to named as `config.ts`
